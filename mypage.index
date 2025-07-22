@@ -5,10 +5,13 @@
   <meta name = "viewport" content = "width = device-width, initial-scale = 1.0" />
   <title>プログラム学習日記</title>
   <link rel = "stylesheet" href = "mypage_stylesheet.css">
-  </head>
+</head>
   
-  <body>
+<body>
   <header>
   　<h1>プログラム学習日記</h1>
   </header>
+</body>
+</html>
+
   
