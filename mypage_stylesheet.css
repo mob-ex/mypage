@@ -9,7 +9,7 @@ header{
   background: linear-gradient(to left, #E4FFD1, #0575e6);
   background-size: 200% auto;
   animation: moveLine 2s linear infinite;
-  margin: 30px 0;
+  margin: 20px 0;
 }
 
 @keyframes moveLine {
