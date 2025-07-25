@@ -5,7 +5,7 @@ header{
 
 .main-header {
   background-image: url('mypage_home.jpg'); /* 背景画像のパス */
-  background-size: contain; /* 画像をエリアにぴったり合わせる */
+  background-size: auto; /* 画像をエリアにぴったり合わせる */
   background-position: center; /* 中央寄せ */
   height: 200px;
   display: flex;
